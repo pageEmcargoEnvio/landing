@@ -90,7 +90,7 @@ const Carousel = () => {
                       Ver más
                     </a>
                     <a
-                      href="https://wa.me/573508255787"
+                      href="https://wa.me/573170582122"
                       className="bg-gray-800 hover:bg-gray-900 text-white px-8 py-3 rounded-lg transition-colors"
                       target="_blank"
                       rel="noopener noreferrer"

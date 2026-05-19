@@ -88,7 +88,7 @@ const Servicios = () => {
                 <p className="text-gray-600 mb-4">{service.description}</p>
 
                 <a
-                  href={`https://wa.me/573508255787?text=${encodeURIComponent(
+                  href={`https://wa.me/573170582122?text=${encodeURIComponent(
                     service.message
                   )}`}
                   target="_blank"

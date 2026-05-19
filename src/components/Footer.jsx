@@ -34,11 +34,11 @@ import {
                 <p className="mb-4">Cra 127 #63, Bogotá D.C</p>
                 
                 <a 
-                  href="https://wa.me/573508255787" 
+                  href="https://wa.me/573170582122" 
                   className="flex items-center mb-4 hover:text-blue-400 transition-colors"
                 >
                   <PhoneIcon className="w-5 h-5 mr-2" />
-                  +57 3508255787
+                  +57 3170582122
                 </a>
                 
                 <a 

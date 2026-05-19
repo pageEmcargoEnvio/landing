@@ -45,11 +45,11 @@ const Navbar = () => {
             </a>
 
             <a 
-              href="tel:3508255787" 
+              href="tel:3170582122" 
               className="flex items-center text-blue-600 bg-blue-50 px-4 py-2 rounded-lg hover:bg-blue-100 transition-colors duration-300 ml-4"
             >
               <PhoneIcon className="h-5 w-5 mr-2" />
-              <span className="font-semibold text-sm">+57 350 8255787</span>
+              <span className="font-semibold text-sm">+57 317 0582122</span>
             </a>
           </div>
 
@@ -100,12 +100,12 @@ const Navbar = () => {
             Contacto
           </a>
           <a 
-            href="tel:3508255787" 
+            href="tel:3170582122" 
             className="flex items-center px-3 py-2 rounded-md text-base font-medium text-blue-600 bg-blue-50 mt-2"
             onClick={() => setIsOpen(false)}
           >
             <PhoneIcon className="h-5 w-5 mr-2" />
-            <span>+57 350 8255787</span>
+            <span>+57 317 0582122</span>
           </a>
         </div>
       </div>

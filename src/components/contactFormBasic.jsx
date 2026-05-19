@@ -19,7 +19,7 @@ const ContactForm = () => {
       Contacto: ${formData.contacto}
       Descripción: ${formData.descripcion}`;
 
-    window.open(`https://wa.me/573508255787?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/573170582122?text=${encodeURIComponent(message)}`, '_blank');
   };
 
   return (
@@ -48,8 +48,8 @@ const ContactForm = () => {
                 </div>
                 <div className="ml-6">
                   <h3 className="text-xl font-semibold text-gray-800">Llámanos</h3>
-                  <a href="tel:3508255787" className="text-blue-600 text-2xl font-medium hover:text-blue-700 transition-colors">
-                    +57 350 8255787
+                  <a href="tel:3170582122" className="text-blue-600 text-2xl font-medium hover:text-blue-700 transition-colors">
+                    +57 317 0582122
                   </a>
                   <p className="text-gray-500 mt-1">Disponibles 24/7 para atenderte</p>
                 </div>

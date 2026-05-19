@@ -19,13 +19,13 @@ const TrackOrderButton = () => {
   const handleTrack = () => {
     if (validateCode(trackingCode)) {
       const whatsappMessage = `Hola, para rastrear el pedido número ${trackingCode}`;
-      window.open(`https://wa.me/573508255787?text=${encodeURIComponent(whatsappMessage)}`, '_blank');
+      window.open(`https://wa.me/573170582122?text=${encodeURIComponent(whatsappMessage)}`, '_blank');
     }
   };
 
   const handleContact = (e) => {
     e.preventDefault();
-    window.open('https://wa.me/573508255787', '_blank');
+    window.open('https://wa.me/573170582122', '_blank');
   };
 
   return (
@@ -98,7 +98,7 @@ const TrackOrderButton = () => {
               <p className="text-sm text-gray-600">
                 ¿No tienes tu código?{' '}
                 <a 
-                  href="https://wa.me/573508255787" 
+                  href="https://wa.me/573170582122" 
                   onClick={handleContact}
                   className="text-green-600 hover:underline"
                   target="_blank"

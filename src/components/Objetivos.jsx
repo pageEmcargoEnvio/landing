@@ -34,10 +34,10 @@ const NuestrosObjetivos = () => {
               <div className="ml-4">
                 <p className="font-semibold">Llámanos</p>
                 <a 
-                  href="tel:3508255787" 
+                  href="tel:3170582122" 
                   className="text-blue-600 text-xl hover:text-blue-800 transition-colors"
                 >
-                  +57 3508255787
+                  +57 3170582122
                 </a>
               </div>
             </div>
